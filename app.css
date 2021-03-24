@@ -1,0 +1,26 @@
+.header{
+    min-height: 150px;
+    background-color: cyan;
+}
+.card{
+    /* border: 1px solid black;    */
+    overflow: hidden;
+}
+.service{
+    width: 45%;
+    min-height: 200px;
+    
+}
+.red{
+    background-color: red;
+    float: left;
+    
+}
+.green{
+    background-color: green;
+    float: right;
+}
+.footer{
+    min-height: 150px;
+    background-color: brown;
+}
